@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaAnglesRight } from "react-icons/fa6";
+import { FaAnglesRight } from "react-icons/fa";
 import heroImage from "../assets/redCoder.jpg";
 import {Link} from "react-scroll"
 const Home = () => {
