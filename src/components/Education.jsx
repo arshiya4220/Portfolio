@@ -137,14 +137,15 @@ lineColor='rgb(235 226 245 / 51%)'>
     position='left'
     contentStyle={{ backgroundImage: 'linear-gradient(to top, #d6c8e5, rgb(159, 122, 205)', color: '#000',borderTop:'1px solid #fff',borderRight:'1px solid #fff' }}
     contentArrowStyle={{ borderRight: '7px solid  #fff' }}
-    date="2020-2024 (present)"
+    date="2020-2024"
     iconStyle={{ backgroundImage: 'linear-gradient(to top, #d6c8e5, rgb(159 142 165), rgb(159, 122, 205)', color: '#000' }}
     icon={<TbSchool />}
   >
     <h3 className="vertical-timeline-element-title">Computer Science Engineering</h3>
     <h4 className="vertical-timeline-element-subtitle">Mohamed Sathak Engineering College , Kilakarai</h4>
     <p>
-      CGP: 8.9/10
+      CGP: 9/10 <br/>
+      Best Outgoing Student Award as TOPPER
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -159,7 +160,7 @@ lineColor='rgb(235 226 245 / 51%)'>
     <h3 className="vertical-timeline-element-title">INTERN</h3>
     <h4 className="vertical-timeline-element-subtitle">Aroopa Tech Pvt Ltd, Chennai</h4>
     <p>
-      Worked as Intern for two months and On-Project for two months in the incubation centre at my college
+      Worked as Intern for two months and On-Project for two months in the incubation centre at my college.
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
@@ -219,7 +220,7 @@ lineColor='rgb(235 226 245 / 51%)'>
     <h3 className="vertical-timeline-element-title">Higher Secondary Second Year</h3>
     <h4 className="vertical-timeline-element-subtitle">Elite Matriculation Higher Secondary School , Ervadi</h4>
     <p>
-      Percentage: 89%
+      Percentage: 87%
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement
